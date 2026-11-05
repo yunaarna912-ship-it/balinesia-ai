@@ -4,7 +4,7 @@
 Balinesia AI adalah asisten interaktif berbasis web yang dirancang untuk membantu wisatawan dan masyarakat dalam mengeksplorasi informasi kebudayaan, tradisi, destinasi wisata, serta kuliner khas Bali secara cepat dan responsif melalui antarmuka percakapan (chat).
 
 ## Problem & Target User
-- **Masalah:** Wisatawan sering kesulitan mendapatkan informasi terpadu, akurat, dan mudah dipahami seputar kebudayaan dan pariwisata Bali dari satu sumber praktis.
+- **Problem:** Wisatawan sering kesulitan mendapatkan informasi terpadu, akurat, dan mudah dipahami seputar kebudayaan dan pariwisata Bali dari satu sumber praktis.
 - **Target User:** Wisatawan domestik maupun mancanegara, pelajar, serta masyarakat umum yang membutuhkan informasi pariwisata dan budaya Bali.
 
 ## Key Features
@@ -14,20 +14,20 @@ Balinesia AI adalah asisten interaktif berbasis web yang dirancang untuk membant
 
 ## Tech Stack
 - **Frontend:** HTML5, Tailwind CSS (via CDN), Vanilla JavaScript (ES6).
-- **Hosting & Deployment:** Vercel.
-- **Version Control:** Git & GitHub.
+- **Hosting & Deployment:** Vercel[span_1](start_span)[span_1](end_span).
+- **Version Control:** Git & GitHub[span_2](start_span)[span_2](end_span).
 
 ## Run Instructions
-Karena ini adalah proyek berbasis web statis (HTML/JS/CSS), kamu dapat menjalankannya dengan cara:
-1. Clone repositori ini ke komputer lokalmu.
-2. Buka folder proyek di teks editor (seperti Kiro IDE / VS Code).
+Karena ini adalah proyek berbasis web statis, kamu dapat menjalankannya dengan cara:
+1. Clone repositori ini ke komputer lokal.
+2. Buka folder proyek di teks editor (seperti VS Code / Kiro IDE).
 3. Jalankan menggunakan ekstensi **Live Server** di browser lokal.
 
 ## Architecture / Data Flow
 User Input (Chat UI) -> JavaScript Event Handler -> Interactive Response Logic -> Render Output to UI.
 
 ## Deployment URL
-- [Link MVP Vercel](https://balinesia-ai.vercel.app)
+- [Link MVP Vercel](https://balinesia-ai.vercel.app)[span_3](start_span)[span_3](end_span)
 
 ## Team Members
 - Naufa Meylani Azizah (Frontend Developer & Creator)
